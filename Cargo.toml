@@ -1,0 +1,8 @@
+[package]
+name = "demo-rust-program"
+version = "0.1.0"
+edition = "2021"
+description = "A small demo Rust program: greets you, counts, and shows a tiny bit of ownership and error handling."
+license = "MIT"
+
+[dependencies]
